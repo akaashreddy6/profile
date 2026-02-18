@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NexusAI Portfolio",
+  "description": "A high-end, AI-enhanced developer portfolio featuring real-time skills visualization and an intelligent recruitment assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
